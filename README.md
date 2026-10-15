@@ -1,4 +1,4 @@
-# who's LosPollosProgramos ?
+# who am I ?
 Hello  there! This project highlights my expertise with React, ESLint, Tailwind, and Vite. Inside, you’ll find a short introduction about me, an overview of my projects, the technologies I've worked with, and details of my experience. There’s also a contact form at the bottom along with links to my social media. Feel free to explore and reach out!
 
 <p align="center">
